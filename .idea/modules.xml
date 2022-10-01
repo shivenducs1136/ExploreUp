@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EXPLOREUP_EXPORT.iml" filepath="$PROJECT_DIR$/.idea/modules/EXPLOREUP_EXPORT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher/EXPLOREUP_EXPORT.launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher/EXPLOREUP_EXPORT.launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher/EXPLOREUP_EXPORT.launcher.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher/EXPLOREUP_EXPORT.launcher.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher/EXPLOREUP_EXPORT.launcher.main.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher/EXPLOREUP_EXPORT.launcher.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher/EXPLOREUP_EXPORT.launcher.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher/EXPLOREUP_EXPORT.launcher.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unityLibrary/EXPLOREUP_EXPORT.unityLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/unityLibrary/EXPLOREUP_EXPORT.unityLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unityLibrary/EXPLOREUP_EXPORT.unityLibrary.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/unityLibrary/EXPLOREUP_EXPORT.unityLibrary.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unityLibrary/EXPLOREUP_EXPORT.unityLibrary.main.iml" filepath="$PROJECT_DIR$/.idea/modules/unityLibrary/EXPLOREUP_EXPORT.unityLibrary.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unityLibrary/EXPLOREUP_EXPORT.unityLibrary.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/unityLibrary/EXPLOREUP_EXPORT.unityLibrary.unitTest.iml" />
+    </modules>
+  </component>
+</project>
